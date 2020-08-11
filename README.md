@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I know, I have forked and pinned some l o r g e repositories because my personal ones are old and the code is... n00b
+
 <!--
 **edoardolunardi/edoardolunardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
