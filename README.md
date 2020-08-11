@@ -4,8 +4,6 @@ I know, I have forked and pinned some l o r g e repositories because my personal
 
 But at least you get the idea of what I code everyday with 🚀
 
-![](https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif)
-
 <!--
 **edoardolunardi/edoardolunardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
